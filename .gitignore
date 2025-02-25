@@ -1,0 +1,9 @@
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/pubspec.lock
+/build/
+/.idea/
+/.dart_tool/
+
+# FVM Version Cache
+.fvm/
