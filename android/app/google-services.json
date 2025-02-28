@@ -12,7 +12,12 @@
           "package_name": "com.procurn.rider.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "607827957642-lgmirc3fukc0h6shc1gomgcbck33p39k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyD1KzczwbQLHgWjs4QgzLXl4iNFrz12sx4"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607827957642-lgmirc3fukc0h6shc1gomgcbck33p39k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607827957642-b02bj0a0rgs2hokhiijrsc8dh3vqpa4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.procurn.rider.app"
+              }
+            }
+          ]
         }
       }
     }

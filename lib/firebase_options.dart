@@ -63,6 +63,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '607827957642',
     projectId: 'procurn-d7890',
     storageBucket: 'procurn-d7890.firebasestorage.app',
+    iosClientId: '607827957642-b02bj0a0rgs2hokhiijrsc8dh3vqpa4q.apps.googleusercontent.com',
     iosBundleId: 'com.procurn.rider.app',
   );
 
