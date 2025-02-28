@@ -1,7 +1,7 @@
 import 'BaseLanguage.dart';
 
 class LanguageEs extends BaseLanguage {
-  @override String get appName => 'Mighty Rider';
+  @override String get appName => 'Procurn Rider';
   @override String get thisFieldRequired => 'Este campo es obligatorio';
   @override String get email => 'Correo electrónico';
   @override String get password => 'Contraseña';
@@ -139,7 +139,7 @@ class LanguageEs extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => '¿Estás seguro de que quieres eliminar la cuenta?';
   @override String get yourInternetIsNotWorking => 'Tu Internet no funciona';
   @override String get allow => 'Permitir';
-  @override String get mostReliableMightyRiderApp => 'Aplicación Mighty Rider más confiable';
+  @override String get mostReliableMightyRiderApp => 'Aplicación Procurn Rider más confiable';
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'Para disfrutar de su experiencia de viaje \ nlease nos permita los siguientes permisos';
   @override String get txtURLEmpty => 'URL está vacía';
   @override String get lblFollowUs => 'Síganos';

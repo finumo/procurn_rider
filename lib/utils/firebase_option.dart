@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
     measurementId: "G-Z8X6437N06",
     androidClientId: '522987428134-aq4d1ei9571vouqqovja59uj5hqi9bho.apps.googleusercontent.com',
     iosClientId: '522987428134-f8lkt3rai45nnpf2nhs90c51unt81mm7.apps.googleusercontent.com',
-    iosBundleId: 'com.mighty.taxirider2',
+    iosBundleId: 'com.procurn.rider.app2',
   );
 
 }

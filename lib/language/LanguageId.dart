@@ -139,7 +139,7 @@ class LanguageId extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => 'Apakah Anda yakin ingin menghapus akun?';
   @override String get yourInternetIsNotWorking => 'Internet Anda tidak berfungsi';
   @override String get allow => 'Mengizinkan';
-  @override String get mostReliableMightyRiderApp => 'Aplikasi Mighty Rider yang paling andal';
+  @override String get mostReliableMightyRiderApp => 'Aplikasi Procurn Rider yang paling andal';
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'Untuk menikmati pengalaman perjalanan Anda \ nPlease, izinkan kami izin berikut';
   @override String get txtURLEmpty => 'URL kosong';
   @override String get lblFollowUs => 'Ikuti kami';

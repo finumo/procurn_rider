@@ -3,31 +3,31 @@ import 'package:flutter/material.dart';
 import 'images.dart';
 
 //region App name
-const mAppName = 'Mighty Rider';
+const mAppName = 'Procurn Rider';
 //endregion
 
 
 // region Google map key
- const GOOGLE_MAP_API_KEY = 'ADD YOUR GOOGLE MAP KEY';
+ const GOOGLE_MAP_API_KEY = 'AIzaSyCy4fRtZngFri-eAmta7kc9tjhAJbp3B_k';
 //endregion
 
 //region DomainUrl
-const DOMAIN_URL = 'ADD OUR BASE URL'; // Don't add slash at the end of the url
+const DOMAIN_URL = 'https://admin.procurn.com'; // Don't add slash at the end of the url
 //endregion
 
 
 //region OneSignal Keys
 //You have to generate 2 onesignal account one for rider and one for driver
-const mOneSignalAppIdDriver = 'ADD YOUR DRIVER APP KEY';
-const mOneSignalRestKeyDriver = 'ADD YOUR DRIVER REST API KEY';
+const mOneSignalAppIdDriver = '38c12539-b60c-4511-a6ab-0ce568033d0d';
+const mOneSignalRestKeyDriver = 'os_v2_app_hdaskonwbrcrdjvlbtswqaz5bxkzwkp5q6pulz4gs7o24jttericmm6awnd6oytcouh4776cc5crdmjudnv466ktaojx7zhlbovej3y';
 
-const mOneSignalAppIdRider = 'ADD YOUR RIDER APP KEY';
-const mOneSignalRestKeyRider = 'ADD YOUR RIDER REST API KEY';
+const mOneSignalAppIdRider = 'c7d18eb8-9a67-43d0-87a8-e2fed241987c';
+const mOneSignalRestKeyRider = 'os_v2_app_y7iy5oe2m5b5bb5i4l7neqmyprf2s3yoydzucaedjnswdi33pstzs2ibbomcdvzdh57yhj2el2pp4vhb5evuaai4gtmjvqezj6rngji';
 //endregion
 
 //region Currency & country code
-const currencySymbol = '\$';
-const currencyNameConst = 'usd';
+const currencySymbol = '\₹';
+const currencyNameConst = 'inr';
 const defaultCountryCode = '+91';
 const defaultCountry = 'IN';
 const digitAfterDecimal = 2;
@@ -40,9 +40,9 @@ const PRESENT_TOP_UP_AMOUNT_CONST = '10|20|30';
 //endregion
 
 //region PDF configuration
-const PDF_NAME = 'Mighty Taxi  Private Limited';
-const PDF_ADDRESS = 'Sarah Street 9, Beijing, Ahmedabad';
-const PDF_CONTACT_NUMBER = '+91 8888888888';
+const PDF_NAME = 'Procurn India Private Limited';
+const PDF_ADDRESS = '227-F, N Block, Pratap Vihar, Sector 12, Vijay Nagar, Ghaziabad, UP-201009';
+const PDF_CONTACT_NUMBER = '+91 7017601927';
 //endregion
 
 //region walkthrough text
@@ -264,6 +264,6 @@ extension MessageExtension on MessageType {
 
 var errorSomethingWentWrong = 'Something Went Wrong';
 
-var demoEmail = 'joy58@gmail.com';
-const mRazorDescription = 'Mighty Rider';
+var demoEmail = 'dezynationindia@gmail.com';
+const mRazorDescription = 'Procurn Rider';
 const mStripeIdentifier = 'IN';

@@ -1,7 +1,7 @@
 import 'BaseLanguage.dart';
 
 class LanguageAf extends BaseLanguage {
-  @override String get appName => 'Mighty Rider';
+  @override String get appName => 'Procurn Rider';
   @override String get thisFieldRequired => 'Hierdie veld word vereis';
   @override String get email => 'E -pos';
   @override String get password => 'Wagwoord';

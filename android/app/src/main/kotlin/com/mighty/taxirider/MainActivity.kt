@@ -1,4 +1,4 @@
-package com.mighty.taxirider
+package com.procurn.rider.app
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 import io.flutter.embedding.engine.FlutterEngine

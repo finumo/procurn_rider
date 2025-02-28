@@ -2,7 +2,7 @@ import 'BaseLanguage.dart';
 
 class LanguageEn extends BaseLanguage {
   @override
-  String get appName => 'Mighty Rider';
+  String get appName => 'Procurn Rider';
 
   @override
   String get thisFieldRequired => 'This field is required';
@@ -417,7 +417,7 @@ class LanguageEn extends BaseLanguage {
   String get allow => 'Allow';
 
   @override
-  String get mostReliableMightyRiderApp => 'Most Reliable Mighty Rider App';
+  String get mostReliableMightyRiderApp => 'Most Reliable Procurn Rider App';
 
   @override
   String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'To enjoy your ride experience\nPlease allow us the following permissions';

@@ -139,7 +139,7 @@ class LanguageRu extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => 'Вы уверены, что хотите удалить учетную запись?';
   @override String get yourInternetIsNotWorking => 'Ваш интернет не работает';
   @override String get allow => 'Позволять';
-  @override String get mostReliableMightyRiderApp => 'Самое надежное приложение Mighty Rider';
+  @override String get mostReliableMightyRiderApp => 'Самое надежное приложение Procurn Rider';
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'Чтобы насладиться опытом поездки \ nplease, позвольте нам следующие разрешения';
   @override String get txtURLEmpty => 'URL пуст';
   @override String get lblFollowUs => 'Подписывайтесь на нас';

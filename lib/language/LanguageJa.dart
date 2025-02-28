@@ -139,7 +139,7 @@ class LanguageJa extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => 'アカウントを削除したいですか？';
   @override String get yourInternetIsNotWorking => 'あなたのインターネットが機能していません';
   @override String get allow => '許可する';
-  @override String get mostReliableMightyRiderApp => '最も信頼できるMighty Riderアプリ';
+  @override String get mostReliableMightyRiderApp => '最も信頼できるProcurn Riderアプリ';
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'あなたのライド体験を楽しむために\ nplease次の許可を許可します';
   @override String get txtURLEmpty => 'URLは空です';
   @override String get lblFollowUs => '私たちに従ってください';

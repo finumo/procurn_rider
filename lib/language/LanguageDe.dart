@@ -139,7 +139,7 @@ class LanguageDe extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => 'Sind Sie sicher, dass Sie Konto löschen möchten?';
   @override String get yourInternetIsNotWorking => 'Ihr Internet funktioniert nicht';
   @override String get allow => 'Erlauben';
-  @override String get mostReliableMightyRiderApp => 'Die zuverlässige Mighty Rider App';
+  @override String get mostReliableMightyRiderApp => 'Die zuverlässige Procurn Rider App';
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => 'Um Ihr Fahrerlebnis zu genießen. Ermöglichen Sie uns die folgenden Berechtigungen';
   @override String get txtURLEmpty => 'URL ist leer';
   @override String get lblFollowUs => 'Folgen Sie uns';

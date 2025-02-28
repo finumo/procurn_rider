@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>texibooking</string>
+	<string>procurn-rider</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -49,21 +49,23 @@
 		<string>mqtt.tcp</string>
 	</array>
 	<key>NSCameraUsageDescription</key>
-	<string>Mighty Rider app requires access to the Camera to upload your profile photo.</string>
+	<string>Procurn app requires access to the Camera to upload your profile photo.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Looking for local tcp Bonjour service</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Mighty Rider  App uses your location to pick origins, destinations, and predict ride times</string>
+	<string>Procurn App uses your location to pick origins, destinations, and predict ride times</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Mighty Rider requires address permission access to get the current location of the user.</string>
+	<string>Procurn requires address permission access to get the current location of the user.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Mighty Rider  requires address permission access to get the current location of the user.</string>
+	<string>Procurn requires address permission access to get the current location of the user.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Mighty Rider  app requires access to microphone when you will be used to record your speech at time of  press the &quot;Mic&quot; button.</string>
+	<string>Procurn app requires access to microphone when you will be used to record your speech at time of  press the "Mic" button.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Mighty Rider requires access to the photo library to upload your profile photo.</string>
+	<string>Procurn requires access to the photo library to upload your profile photo.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Mighty Rider requires access to the photo library to upload your profile photo.</string>
+	<string>Procurn requires access to the photo library to upload your profile photo.</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>
@@ -88,8 +90,6 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>io.flutter.embedded_views_preview</key>
-	<true/>
-	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 </dict>
 </plist>

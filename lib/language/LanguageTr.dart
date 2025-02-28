@@ -1,7 +1,7 @@
 import 'BaseLanguage.dart';
 
 class LanguageTr extends BaseLanguage {
-  @override String get appName => "Mighty Rider";
+  @override String get appName => "Procurn Rider";
   @override String get thisFieldRequired => "Bu alan gereklidir";
   @override String get email => "E -posta";
   @override String get password => "Şifre";
@@ -139,7 +139,7 @@ class LanguageTr extends BaseLanguage {
   @override String get areYouSureYouWantDeleteAccount => "Hesabı silmek istediğinden emin misiniz?";
   @override String get yourInternetIsNotWorking => "İnternetiniz çalışmıyor";
   @override String get allow => "İzin vermek";
-  @override String get mostReliableMightyRiderApp => "En güvenilir Mighty Rider uygulaması";
+  @override String get mostReliableMightyRiderApp => "En güvenilir Procurn Rider uygulaması";
   @override String get toEnjoyYourRideExperiencePleaseAllowPermissions => "Sürüş deneyiminizin tadını çıkarmak için \ nlease bize aşağıdaki izinlere izin verin";
   @override String get txtURLEmpty => "URL boş";
   @override String get lblFollowUs => "Bizi takip edin";

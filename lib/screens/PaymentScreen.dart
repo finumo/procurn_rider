@@ -238,7 +238,7 @@ class PaymentScreenState extends State<PaymentScreen> {
           //   //   merchantCountryCode: 'US',
           //   // ),
           //   googlePay: PaymentSheetGooglePay(merchantCountryCode: appStore.currencyName.toUpperCase(), testEnv: true),
-          //   merchantDisplayName: 'Mighty Rider',
+          //   merchantDisplayName: 'Procurn Rider',
           //   customerId: appStore.userId.toString(),
           //   customerEphemeralKeySecret: res.clientSecret.validate(),
           //   setupIntentClientSecret: res.clientSecret.validate(),
@@ -418,7 +418,7 @@ class PaymentScreenState extends State<PaymentScreen> {
   // void mercadoPagoPayment() async {
   //   var body = json.encode({
   //     "items": [
-  //       {"title": "Mighty Rider", "description": "Mighty Rider", "quantity": 1, "currency_id": appStore.currencyName.toUpperCase(), "unit_price": widget.amount}
+  //       {"title": "Procurn Rider", "description": "Procurn Rider", "quantity": 1, "currency_id": appStore.currencyName.toUpperCase(), "unit_price": widget.amount}
   //     ],
   //     "payer": {"email": sharedPref.getString(USER_EMAIL)}
   //   });
